@@ -1,0 +1,130 @@
+{
+  "cards": [
+    {
+      "cardName": "How to Send Message",
+      "details": [
+        {
+          "link": "#",
+          "title": "How to Send a Message by WhatsApp API using PHP easily"
+        },
+        {
+          "link": "#",
+          "title": "How to Send a Message by WhatsApp API using Node.js easily"
+        },
+        {
+          "link": "#",
+          "title": "How to Send WhatsApp API using c#"
+        },
+        {
+          "link": "#",
+          "title": "How to Send a Message by WhatsApp API using vbnet"
+        },
+        {
+          "link": "#",
+          "title": "How to Send a WhatsApp API with Java"
+        },
+        {
+          "link": "#",
+          "title": "How to Send a WhatsApp API with Objective-C"
+        },
+        {
+          "link": "#",
+          "title": "How to Send a WhatsApp API with cURL"
+        },
+        {
+          "link": "#",
+          "title": "How to Send WhatsApp API using Ruby"
+        },
+        {
+          "link": "#",
+          "title": "How to Send WhatsApp API using Python | Quickstart"
+        },
+        {
+          "link": "#",
+          "title": "Send WhatsApp images and Documents using Base64"
+        },
+        {
+          "link": "#",
+          "title": "send message to WhatsApp Group using WhatsApp API"
+        }
+      ]
+    },
+
+    {
+      "cardName": "How to Receive Messages",
+
+      "details": [
+        {
+          "link": "#",
+          "title": "Receive WhatsApp messages using PHP and webhook"
+        },
+        {
+          "link": "#",
+          "title": "Receive WhatsApp messages using Webhook and Node.js"
+        },
+        {
+          "link": "#",
+          "title": "how to Receive WhatsApp messages using python and webhook ?"
+        },
+        {
+          "link": "#",
+          "title": "How to Receive WhatsApp messages using VB.NET and webhook"
+        },
+        {
+          "link": "#",
+          "title": "Receive WhatsApp messages using C# and webhook"
+        }
+      ]
+    },
+
+    {
+      "cardName": "How to make chatbot",
+
+      "details": [
+        {
+          "link": "#",
+          "title": "Build a WhatsApp Chatbot using PHP"
+        },
+        {
+          "link": "#",
+          "title": "Build a WhatsApp Chatbot With Python"
+        },
+        {
+          "link": "#",
+          "title": "How to create a WhatsApp Chatbot using VBNET"
+        },
+        {
+          "link": "#",
+          "title": "Build a WhatsApp Chatbot using c#"
+        }
+      ]
+    }
+  ],
+
+  "blogs": [
+    {
+      "blogTitle": "Send WhatsApp API message in PHP | Python with Alnmsg"
+    },
+    {
+      "blogTitle": "Create a WhatsApp chatbot in 5 minutes"
+    },
+    {
+      "blogTitle": "Send Message by WhatsApp api using PHP SDK | Alnmsg PHP SDK"
+    },
+    {
+      "blogTitle": "Receive WhatsApp messages using PHP | WhatsApp api Webhook"
+    },
+    {
+      "blogTitle": "Send a message to WhatsApp Group using WhatsApp API"
+    },
+    {
+      "blogTitle": "Webhooks - WhatsApp API | how to set WebHooks using Alnmsg Platform"
+    },
+    {
+      "blogTitle": "Send WhatsApp API images and Documents using Base64"
+    },
+    {
+      "blogTitle": "Build a WhatsApp Chatbot With Python using Alnmsg WhatsApp API "
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+nav {
+  background-color: #19283f !important;
+
+  .navbar-brand {
+    h1 {
+      font-weight: 700;
+      letter-spacing: 0.5px;
+    }
+  }
+
+  #main {
+    ul {
+      li {
+        a {
+          color: #fff;
+          font-size: 0.9rem;
+          font-weight: 700;
+          font-family: "Open Sans";
+          letter-spacing: 0.5px;
+          &:hover,
+          &:focus,
+          &.active {
+            color: #33d1cc;
+          }
+        }
+      }
+    }
+
+    .register {
+      a {
+        font-weight: 700;
+        font-size: 0.9rem;
+      }
+      .bord {
+        width: 1px;
+        margin: 0 1rem;
+      }
+    }
+  }
+}

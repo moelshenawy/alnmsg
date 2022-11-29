@@ -1,0 +1,13 @@
+export { default as Navbar } from "./Navbar/index";
+export { default as Home } from "./Home/index";
+export { default as Faq } from "./FAQ/index";
+export { default as Login } from "./Login/index";
+export { default as Signup } from "./Signup/index";
+export { default as Features } from "./Features/index";
+export { default as Project } from "./Project/index";
+export { default as Tutorials } from "./Tutorials/index";
+export { default as Footer } from "./Footer/index";
+export { default as Hero } from "./Hero/index";
+export { default as Seo } from "./Seo/index";
+export { default as Team } from "./Team/index";
+// export { default as NotFound } from "./NotFound/index";

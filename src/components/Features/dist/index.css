@@ -1,0 +1,9 @@
+.features .icon-holder {
+  height: 200px;
+}
+.features .icon-holder svg {
+  height: 50%;
+  width: 100%;
+  left: 50%;
+  transform: translateX(-50%);
+}

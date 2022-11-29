@@ -1,0 +1,27 @@
+.faq-section {
+  padding: 100px 0;
+  position: relative;
+}
+.faq-section .faq-question {
+  font-weight: 600;
+  font-family: "Ubuntu", sans-serif;
+  font-size: 20px;
+}
+.faq-section .faq-answer {
+  color: var(--bs-gray);
+  font-size: 16px;
+  padding-left: 1rem;
+}
+.faq-section .faq-icon {
+  color: #33d1cc !important;
+  width: 20px;
+  height: 20px;
+  margin-right: 10px;
+}
+.faq-section .faq-contact .title {
+  letter-spacing: 0.5px;
+  font-size: 30px !important;
+}
+.faq-section .faq-contact p {
+  color: #8492a6 !important;
+}

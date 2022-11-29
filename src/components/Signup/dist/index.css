@@ -1,0 +1,67 @@
+.content {
+  background-color: #19283f;
+  padding: 1.25rem 1.25rem;
+  height: 100vh;
+  flex: 1;
+}
+.content .signin-form {
+  width: 20rem;
+}
+.content .signin-form .card {
+  margin-bottom: 1.25rem;
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.014);
+}
+.content .signin-form .card .card-body {
+  flex: 1 1 auto;
+  padding: 1.25rem;
+}
+.content .signin-form .card .card-body .form-group {
+  margin-bottom: 1.25rem;
+  position: relative;
+}
+.content .signin-form .card .card-body .form-group .form-control {
+  padding-left: 2.75rem;
+}
+.content .signin-form .card .card-body .form-group .icon {
+  position: absolute;
+  top: 0;
+  color: #333;
+  padding-left: 0.875rem;
+  padding-right: 0.875rem;
+  line-height: calc(1.5385em + 0.875rem + 2px);
+  min-width: 1rem;
+}
+.content .signin-form .card .card-body .form-group button {
+  width: 100%;
+}
+.content .signin-form .card .card-body .form-group button svg {
+  margin-left: 5px;
+}
+.content .signin-form .card .card-body .form-group a {
+  border-color: #ddd;
+}
+.content .signin-form .card .card-body .form-group .input-group {
+  position: relative;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: stretch;
+  width: 100%;
+}
+.content .signin-form .card .card-body .content-divider {
+  position: relative;
+  z-index: 1;
+}
+.content .signin-form .card .card-body .content-divider span {
+  background-color: #fff;
+  font-size: 16px;
+}
+.content .signin-form .card .card-body .content-divider span::before {
+  content: "";
+  position: absolute;
+  top: 50%;
+  left: 0;
+  height: 1px;
+  background-color: #ddd;
+  width: 100%;
+  z-index: -1;
+}
